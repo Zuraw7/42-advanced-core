@@ -1,0 +1,3 @@
+[submodule "scop"]
+	path = scop
+	url = git@github.com:Zuraw7/scop.git
