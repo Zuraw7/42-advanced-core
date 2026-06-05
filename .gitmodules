@@ -4,3 +4,6 @@
 [submodule "ft_vox"]
 	path = ft_vox
 	url = git@github.com:Zuraw7/ft_vox.git
+[submodule "libftpp"]
+	path = libftpp
+	url = git@github.com:Zuraw7/libftpp.git
